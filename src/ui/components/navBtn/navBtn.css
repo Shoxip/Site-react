@@ -1,0 +1,26 @@
+.navBtn {
+    display: flex;
+    height: 70px;
+    width: 40px;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;      
+}
+
+.toggleBtn {
+    display:ruby;
+    font-size: 200%;
+    font-weight: bold;
+    height: auto;
+    margin-top: 7px;
+    color: white;
+    width: 100%;
+    
+}   
+
+@media screen and (min-width: 1366px) {
+    .toggleBtn{
+        display: none;
+    }
+}
+

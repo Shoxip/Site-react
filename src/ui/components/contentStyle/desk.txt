@@ -1,0 +1,2 @@
+this is css for content in all pages. So i can use this for
+all link's.
